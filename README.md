@@ -48,6 +48,4 @@
                 <li><strong>SERTIFIKAT BNSP PELATIHAN OTOMOTIF </strong> 
                     <li><strong>SERTIFIKAT PELATIHAN BALAI BESAR PELATIHAN VOKASI DAN PRODUKTIVITAS BANDUNG </strong> 
           
-    <script src="script.js"></script>
-</body>
-</html>
+  
