@@ -18,7 +18,7 @@
                 <p><a href="https://www.linkedin.com/in/fauzi-tri-hermawan-26b34a298/" target="_blank">LinkedIn Profile</a></p>
                 <p>Komp. Griya Bandung Indah blok 10 No.18</p>
             </div>
-        </body>
+       
         </div>
 
         <div class="content">
