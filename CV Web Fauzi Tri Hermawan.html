@@ -27,7 +27,7 @@
 
             <h3>PENDIDIKAN</h3>
             <p><strong>(2020-2023) SMAN 22 BANDUNG</strong><br> Jurusan MIPA</p>
-            <P><strong>(2024-Sekarang) Universitas Logistik Dan Bisnis Internasional</strong><br>Jururan D3Teknik Informatika</P>
+            <P><strong>(2024-Sekarang) Universitas Logistik Dan Bisnis Internasional</strong><br>Jurusan D3Teknik Informatika</P>
             <h3>KEMAMPUAN</h3>
             <ul>
                 <li>Microsoft Office (Dasar)</li>
