@@ -39,7 +39,7 @@
             <h3>PENGALAMAN</h3>
             <ul>
                 <li><strong>COO PH MUFAZAPROJECT (2021 - Sekarang)</strong> - Mengembangkan brand jasa fotografi dan videografi.</li>
-                <li><strong>ANGGOTA PER FILM AN PROCIDO (2020-2023)</strong> - Sukses melaksanakan pembuatan short film.</li>
+                <li><strong>ANGGOTA PER FILM AN PROCEDIO (2020-2023)</strong> - Sukses melaksanakan pembuatan short film.</li>
                 <li><strong>Pelatihan Otomotif BBPV BANDING (Agustus 2023 - Oktober 2023)</strong> - Merancang sistem operasi pada mesin.</li>
                 <li><strong>Staff Marketing PT. Honda Naga Mas (Desember 2023 - Desember 2023)</strong> - Memasarkan dan menjual motor sesuai target.</li>
             </ul>
